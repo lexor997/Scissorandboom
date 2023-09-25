@@ -14,7 +14,7 @@ body {
     color: #fff !important;
 }
 .hero {
-    background-image: url('../images/hero.png');
+    background-image: url('../images/hero.jpg');
     background-position: top;
     background-size: cover;
 }
